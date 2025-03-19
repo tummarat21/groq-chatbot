@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/api/webhook", "dest": "api/chatbot.py" },
+    { "src": "/api/chat", "dest": "api/chatbot.py" }
+  ]
+}
+
